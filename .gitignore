@@ -27,6 +27,9 @@ bld/
 **/[Pp]ackages/*
 !**/[Pp]ackages/build/
 
+# Publish output
+publish/
+
 # Windows
 Thumbs.db
 ehthumbs.db
